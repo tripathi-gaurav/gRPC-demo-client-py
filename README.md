@@ -1,4 +1,4 @@
-# gRPC-demo-server
+# gRPC-demo-client-py
 
 A `HelloWorld` client using `gRPC-python` to talk to a server written in `gRPC-java`.
 
